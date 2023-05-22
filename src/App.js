@@ -1,10 +1,9 @@
-
-import Lading from './Components/Lading';
+import Landing from "./Components/Landing";
 
 function App() {
   return (
-    <div >
-      <Lading/>
+    <div>
+      <Landing />
     </div>
   );
 }
