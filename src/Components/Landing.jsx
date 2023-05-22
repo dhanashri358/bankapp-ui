@@ -9,4 +9,4 @@ const Landing = () => {
   );
 };
 
-export default Lading;
+export default Landing;
